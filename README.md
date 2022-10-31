@@ -11,5 +11,5 @@
 ### 语言
 
 - [awesome-swift-zh](awesome-swift-zh.md)
-- [awesome-rust-zh.md](awesome-rust-zh.md)
+- [awesome-rust-zh](awesome-rust-zh.md)
 
