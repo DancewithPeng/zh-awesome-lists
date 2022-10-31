@@ -4,5 +4,7 @@
 
 
 - [awesome-ios-zh](awesome-ios-zh.md)
+- [awesome-mac-zh](awesome-mac-zh.md)
 
 - [awesome-swift-zh](awesome-swift-zh.md)
+
